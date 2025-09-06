@@ -1,0 +1,9 @@
+# ninja log v5
+1	495	1725870446948828592	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8641ef17b17db114
+1	506	1725870446961124965	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3bb1e6860352966d
+3	517	1725870446971477924	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	533feff152c75bb9
+3	567	1725870447021552727	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5592a79c3c1f8a13
+0	586	1725870447040854867	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ddfd47f3bfde0e20
+1	694	1725870447148601917	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f9e17e16c9a309a4
+0	740	1725870447194246089	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	39a8befcb09b731c
+740	830	1725870447264464882	/Users/myo/Projects/Unity/test/Chemistry Lab VR-5/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4uc3t5t2/obj/arm64-v8a/libgame.so	ac0754d85d25c26

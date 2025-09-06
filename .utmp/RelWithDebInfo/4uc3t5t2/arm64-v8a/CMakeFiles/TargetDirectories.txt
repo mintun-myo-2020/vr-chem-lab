@@ -1,0 +1,5 @@
+/Users/myo/Projects/Unity/test/Chemistry Lab VR-5/.utmp/RelWithDebInfo/4uc3t5t2/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/myo/Projects/Unity/test/Chemistry Lab VR-5/.utmp/RelWithDebInfo/4uc3t5t2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/myo/Projects/Unity/test/Chemistry Lab VR-5/.utmp/RelWithDebInfo/4uc3t5t2/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/myo/Projects/Unity/test/Chemistry Lab VR-5/.utmp/RelWithDebInfo/4uc3t5t2/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/myo/Projects/Unity/test/Chemistry Lab VR-5/.utmp/RelWithDebInfo/4uc3t5t2/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
