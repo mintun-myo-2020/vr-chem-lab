@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04074e9208f79434da72f3d0883351ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/Popup_Tip01.prefab
+  uploadId: 509966

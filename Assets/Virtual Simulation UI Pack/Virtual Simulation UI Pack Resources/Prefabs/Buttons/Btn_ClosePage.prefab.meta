@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75290e30717897d4287c8eabb8ace8fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Btn_ClosePage.prefab
+  uploadId: 509966

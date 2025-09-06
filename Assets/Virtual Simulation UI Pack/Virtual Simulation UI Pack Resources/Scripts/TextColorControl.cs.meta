@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74d4d867200a0c3439be69c19167e361
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Scripts/TextColorControl.cs
+  uploadId: 509966

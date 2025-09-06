@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1758357216fe1174ab37494daf414e87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Btn_SmallMenuBlue.prefab
+  uploadId: 509966

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbbf994231a48f34cbd4bb7db2d31c08
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Btn_IconButton01Blue.prefab
+  uploadId: 509966

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94b167c3e8236584289f1123b1463deb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Btn_IconButton01Red.prefab
+  uploadId: 509966

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96fa384b10124b54db3a31f2b3ef24b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/ToolBox.prefab
+  uploadId: 509966

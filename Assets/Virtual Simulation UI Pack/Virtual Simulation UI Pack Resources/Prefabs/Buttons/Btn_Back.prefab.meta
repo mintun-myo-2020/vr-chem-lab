@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e955073fc9e6cc944ac365f8e6610d5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Btn_Back.prefab
+  uploadId: 509966

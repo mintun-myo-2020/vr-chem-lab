@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fa07aa07b5b7334e99a809d7962b284
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Btn_Start
+    Task.prefab
+  uploadId: 509966

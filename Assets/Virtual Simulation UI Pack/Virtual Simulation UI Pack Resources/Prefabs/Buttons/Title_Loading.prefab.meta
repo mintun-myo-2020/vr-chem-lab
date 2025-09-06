@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67368f5089511a04dad1f5e93c987e64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Buttons/Title_Loading.prefab
+  uploadId: 509966

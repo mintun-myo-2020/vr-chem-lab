@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6749ee4428d3fed499d9dcbe3a486f8b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Options/PageLabel.prefab
+  uploadId: 509966

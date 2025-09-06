@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 02787886d597b20499d06cd4e7eaf51a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/Label01_Dark.prefab
+  uploadId: 509966

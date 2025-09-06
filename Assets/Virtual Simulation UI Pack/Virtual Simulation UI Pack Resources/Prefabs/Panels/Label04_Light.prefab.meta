@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1d35e2c78c3c874b9c52eb48a44ad2e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/Label04_Light.prefab
+  uploadId: 509966

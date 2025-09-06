@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58b380d1adb6e4c4ca4295aa07411219
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/Operation
+    Steps.prefab
+  uploadId: 509966

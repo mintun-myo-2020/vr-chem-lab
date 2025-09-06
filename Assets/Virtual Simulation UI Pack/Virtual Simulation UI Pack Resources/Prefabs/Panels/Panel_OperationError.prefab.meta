@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3de46ac2a121a6c4f9b690ffa521bccf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/Panel_OperationError.prefab
+  uploadId: 509966

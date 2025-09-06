@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b85fc9150dd95bd40a71a2f6de29a0ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Options/Btn_OptionB.prefab
+  uploadId: 509966

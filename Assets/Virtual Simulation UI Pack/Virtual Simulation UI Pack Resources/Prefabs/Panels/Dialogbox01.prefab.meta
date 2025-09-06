@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d059ad5f6fc76bc4b945ae529fffc5fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226334
+  packageName: Virtual Simulation UI Pack
+  packageVersion: 1.0
+  assetPath: Assets/Virtual Simulation UI Pack/Virtual Simulation UI Pack Resources/Prefabs/Panels/Dialogbox01.prefab
+  uploadId: 509966
